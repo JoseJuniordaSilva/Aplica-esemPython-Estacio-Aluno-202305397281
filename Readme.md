@@ -5,11 +5,11 @@
 # senha
     admin123
 # proximo
-    Notas
+    Notas_Marlene
 
 
 # para ver os relatorios
     o arquivo RODAR.py
 
-#   quando ele pedir pra digitar quem.    digite Notas
+#   quando ele pedir pra digitar quem.    digite Notas_Marlene
 
